@@ -1,7 +1,7 @@
 # 🚀 We ESA Φ-lab 
 
 <p align="center">
-  <img src="https://philab.esa.int/wp-content/themes/philab24/assets/ESA_Title.svg" alt="ESA PhiLab Logo" width="300">
+  <img src="asset/banner.png" alt="ESA PhiLab Logo" width="100%">
 </p>
 
 <p align="center">
@@ -48,7 +48,8 @@ Our core strength lies in our ability to **connect people and ideas**. We foster
 > **What sets ESA Φ-lab apart** is our end-to-end management of the innovation cycle—from blue-sky thinking to tangible impact. We discover and deliver innovations that make a difference across commercial, scientific, and non-profit communities.
 
 ---
-#    🔍 We Explore
+
+# 🔍 We Explore
 
 <div align="center">
     <div align="center">
@@ -82,7 +83,6 @@ Our core strength lies in our ability to **connect people and ideas**. We foster
                 <td>Urban mapping & smart city solutions</td>
             </tr>
         </table>
-        <img src="https://philab.esa.int/wp-content/uploads/sites/3/2024/09/pexels-spacex-586056_resized.jpg" alt="Earth Observation Innovation" width="300px" style="border-radius: 10px; display: inline-block; vertical-align: top; margin-left: 20px;">
     </div>
 </div>
 
@@ -91,7 +91,7 @@ Our core strength lies in our ability to **connect people and ideas**. We foster
 # 💼 We Invest
 
 <div align="center">
-    <img src="https://philab.esa.int/wp-content/uploads/sites/3/2025/01/InCubed_visual_resized.jpg" alt="InCubed Programme" width="50%" style="border-radius: 30px;">
+    <img src="https://philab.esa.int/wp-content/uploads/sites/3/2025/01/InCubed_visual_resized.jpg" alt="InCubed Programme" width="80%" style="border-radius: 20px;">
 </div>
 
 Our aim is to **fill the gap between your innovative idea and the market**. Through our **InCubed programme**, we provide:
