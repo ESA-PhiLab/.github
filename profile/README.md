@@ -21,7 +21,7 @@
 ## <span style="font-size:1.5em;">🎯  Our Mission</span>
 
 <span style="font-size:1.2em;">
-**ESA Φ-lab accelerates the future of Earth Observation (EO) through disruptive/transformational innovations and commercialisation actions.** Our mission is to enhance the global competitiveness of the industrial and scientific sectors across ESA Member States.
+ESA Φ-lab accelerates the future of Earth Observation (EO) through disruptive/transformational innovations and commercialisation actions. Our mission is to enhance the global competitiveness of the industrial and scientific sectors across ESA Member States.
 </span>
 
 <span style="font-size:1.2em;">
