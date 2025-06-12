@@ -1,14 +1,16 @@
-# 🚀 We ESA Φ-lab 
-
 <p align="center">
-  <img src="asset/banner.png" alt="ESA PhiLab Logo" width="100%">
+    <img src="asset/banner.png" alt="ESA PhiLab Logo" width="100%">
 </p>
 
-<p align="center">
-  <strong>🌍 TRANSFORMING EARTH OBSERVATION IN ACTIONS FOR THE HUMAN PROSPERITY 🌍</strong>
+<p align="center" style="font-size:2.5em;">
+🚀 We are ESA Φ-lab!  
 </p>
 
-<div align="center">
+<p align="center" style="font-size:1.5em;">
+    <strong>🌍 TRANSFORMING EARTH OBSERVATION IN ACTIONS FOR THE HUMAN PROSPERITY 🌍</strong>
+</p>
+
+<div align="center" style="font-size:1.2em;">
 
 [![Website](https://img.shields.io/badge/Website-philab.esa.int-blue?style=for-the-badge)](https://philab.esa.int)
 [![Twitter](https://img.shields.io/badge/Twitter-ESA_EO-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ESA_EO)
@@ -19,21 +21,27 @@
 
 ---
 
-## 🎯  Our Mission
+## <span style="font-size:1.5em;">🎯  Our Mission</span>
 
+<span style="font-size:1.2em;">
 **ESA Φ-lab accelerates the future of Earth Observation (EO) through disruptive/transformational innovations and commercialisation actions.** Our mission is to enhance the global competitiveness of the industrial and scientific sectors across ESA Member States.
+</span>
 
+<span style="font-size:1.2em;">
 We are the innovation catalyst that transforms brilliant ideas into real-world solutions that benefit humanity! 🌟
+</span>
 
 ---
 
-## 🔬 How We Work
+## <span style="font-size:1.5em;">🔬 How We Work</span>
 
-Our core strength lies in our ability to **connect people and ideas**. We foster and generate transformative ideas, nurture and mature a select few, and evolve them into practical solutions or products that gain real-world traction.
+<span style="font-size:1.2em;">
+Our core strength lies in our ability to <strong>connect people and ideas</strong>. We foster and generate transformative ideas, nurture and mature a select few, and evolve them into practical solutions or products that gain real-world traction.
+</span>
 
-### 🚀 Our 5-Step Innovation Process
+### <span style="font-size:1.2em;">🚀 Our 5-Step Innovation Process</span>
 
-<div align="center">
+<div align="center" style="font-size:1.1em;">
 
 | Step | Phase | Description |
 |------|-------|-------------|
@@ -45,122 +53,134 @@ Our core strength lies in our ability to **connect people and ideas**. We foster
 
 </div>
 
-> **What sets ESA Φ-lab apart** is our end-to-end management of the innovation cycle—from blue-sky thinking to tangible impact. We discover and deliver innovations that make a difference across commercial, scientific, and non-profit communities.
+> <span style="font-size:1.1em;"><strong>What sets ESA Φ-lab apart</strong> is our end-to-end management of the innovation cycle—from blue-sky thinking to tangible impact. We discover and deliver innovations that make a difference across commercial, scientific, and non-profit communities.</span>
 
 ---
 
-# 🔍 We Explore
+# <span style="font-size:1.5em;">🔍 We Explore</span>
 
-<div align="center">
-    <div align="center">
-        <table style="display: inline-block; vertical-align: top;">
-            <tr>
-                <th>🔬 <strong>Innovation Areas</strong></th>
-                <th>📝 <strong>Description</strong></th>
-            </tr>
-            <tr>
-                <td>🤖 <strong>AI4EO</strong></td>
-                <td>Artificial Intelligence for Earth Observation</td>
-            </tr>
-            <tr>
-                <td>🛰️ <strong>Advanced EO Tech</strong></td>
-                <td>Next-generation Earth Observation technologies</td>
-            </tr>
-            <tr>
-                <td>🌐 <strong>QC4EO</strong></td>
-                <td>Quantum Computing for Earth Observation</td>
-            </tr>
-            <tr>
-                <td>📊 <strong>Major TOM</strong></td>
-                <td>AI-powered embeddings & insights</td>
-            </tr>
-            <tr>
-                <td>🔥 <strong>Emergency Response</strong></td>
-                <td>Wildfire prediction & response systems</td>
-            </tr>
-            <tr>
-                <td>🏙️ <strong>Smart Cities</strong></td>
-                <td>Urban mapping & smart city solutions</td>
-            </tr>
-        </table>
-    </div>
+<div align="center" style="font-size:1.1em;">
+        <div align="center">
+                <table style="display: inline-block; vertical-align: top; font-size:1.1em;">
+                        <tr>
+                                <th>🔬 <strong>Innovation Areas</strong></th>
+                                <th>📝 <strong>Description</strong></th>
+                        </tr>
+                        <tr>
+                                <td>🤖 <strong>AI4EO</strong></td>
+                                <td>Artificial Intelligence for Earth Observation</td>
+                        </tr>
+                        <tr>
+                                <td>🛰️ <strong>Advanced EO Tech</strong></td>
+                                <td>Next-generation Earth Observation technologies</td>
+                        </tr>
+                        <tr>
+                                <td>🌐 <strong>QC4EO</strong></td>
+                                <td>Quantum Computing for Earth Observation</td>
+                        </tr>
+                        <tr>
+                                <td>📊 <strong>Major TOM</strong></td>
+                                <td>AI-powered embeddings & insights</td>
+                        </tr>
+                        <tr>
+                                <td>🔥 <strong>Emergency Response</strong></td>
+                                <td>Wildfire prediction & response systems</td>
+                        </tr>
+                        <tr>
+                                <td>🏙️ <strong>Smart Cities</strong></td>
+                                <td>Urban mapping & smart city solutions</td>
+                        </tr>
+                </table>
+        </div>
 </div>
 
 ---
 
-# 💼 We Invest
+# <span style="font-size:1.5em;">💼 We Invest</span>
 
 <div align="center">
-    <img src="https://philab.esa.int/wp-content/uploads/sites/3/2025/01/InCubed_visual_resized.jpg" alt="InCubed Programme" width="80%" style="border-radius: 20px;">
+        <img src="https://philab.esa.int/wp-content/uploads/sites/3/2025/01/InCubed_visual_resized.jpg" alt="InCubed Programme" width="90%" style="border-radius: 20px;">
 </div>
 
-Our aim is to **fill the gap between your innovative idea and the market**. Through our **InCubed programme**, we provide:
+<span style="font-size:1.2em;">
+Our aim is to <strong>fill the gap between your innovative idea and the market</strong>. Through our <strong>InCubed programme</strong>, we provide:
+</span>
 
-- 💰 **Financial Support**
-- 🛠️ **Technical Assistance**
-- 📈 **Business Development**
-- 🚀 **Market Entry Support**
-- 💡 **Risk-Capital Investment Access**
-
-
-
----
-
-
-
-## 🤝 Our People & Partnerships
-
-**Connecting people and ideas is at the very heart of what we do.** We collaborate with:
-
-- 🎓 **Academia & Research Centers**
-- 🏢 **Industry Partners**
-- 🏛️ **National Space Centers**
-- 💼 **Private Investors**
-- 🌍 **Global Innovators**
-
-### 🤝 Key Partners Include:
-- **BIFOLD Berlin**
-- **DFKI (German Research Center for AI)**
-- **ELLIS (European Lab for Learning & Intelligent Systems)**
-- **EPFL ECEO Lab**
-- **ETH Zurich**
-- **Altair**
-- And many more innovative organizations worldwide!
+<ul style="font-size:1.1em;">
+<li>💰 <strong>Financial Support</strong></li>
+<li>🛠️ <strong>Technical Assistance</strong></li>
+<li>📈 <strong>Business Development</strong></li>
+<li>🚀 <strong>Market Entry Support</strong></li>
+<li>💡 <strong>Risk-Capital Investment Access</strong></li>
+</ul>
 
 ---
 
-## 📞 Get Involved
+## <span style="font-size:1.5em;">🤝 Our People & Partnerships</span>
 
-### 🚀 Opportunities
+<span style="font-size:1.2em;">
+<strong>Connecting people and ideas is at the very heart of what we do.</strong> We collaborate with:
+</span>
 
-- 💼 **Work with us** - Join our innovation ecosystem
-- 💡 **Submit your ideas** - Through our challenge programs
-- 🤝 **Partnership opportunities** - Collaborate on cutting-edge projects
-- 📚 **Research collaboration** - Academic and scientific partnerships
+<ul style="font-size:1.1em;">
+<li>🎓 <strong>Academia & Research Centers</strong></li>
+<li>🏢 <strong>Industry Partners</strong></li>
+<li>🏛️ <strong>National Space Centers</strong></li>
+<li>💼 <strong>Private Investors</strong></li>
+<li>🌍 <strong>Global Innovators</strong></li>
+</ul>
 
-### 📬 Contact & Social Media
-
-- 🌐 **Website**: [philab.esa.int](https://philab.esa.int)
-- 📧 **Email**: [philab@esa.int](mailto:philab@esa.int)
-- 🐦 **Twitter**: [@ESA_EO](https://twitter.com/ESA_EO)
-- 💼 **LinkedIn**: [ESA Φ-lab Group](https://www.linkedin.com/groups/8984375/)
+### <span style="font-size:1.2em;">🤝 Key Partners Include:</span>
+<ul style="font-size:1.1em;">
+<li><strong>BIFOLD Berlin</strong></li>
+<li><strong>DFKI (German Research Center for AI)</strong></li>
+<li><strong>ELLIS (European Lab for Learning & Intelligent Systems)</strong></li>
+<li><strong>EPFL ECEO Lab</strong></li>
+<li><strong>ETH Zurich</strong></li>
+<li><strong>Altair</strong></li>
+<li>And many more innovative organizations worldwide!</li>
+</ul>
 
 ---
 
-## 📚 Resources
+## <span style="font-size:1.5em;">📞 Get Involved</span>
 
-- 📖 **Publications** - Latest research and findings
-- 🎯 **Challenges** - Current innovation challenges
-- 📋 **Useful Documents** - Guidelines and resources
-- 🎪 **Events** - Upcoming conferences and workshops
-- 💼 **Business Opportunities** - Doing business with Φ-lab
+### <span style="font-size:1.2em;">🚀 Opportunities</span>
+
+<ul style="font-size:1.1em;">
+<li>💼 <strong>Work with us</strong> - Join our innovation ecosystem</li>
+<li>💡 <strong>Submit your ideas</strong> - Through our challenge programs</li>
+<li>🤝 <strong>Partnership opportunities</strong> - Collaborate on cutting-edge projects</li>
+<li>📚 <strong>Research collaboration</strong> - Academic and scientific partnerships</li>
+</ul>
+
+### <span style="font-size:1.2em;">📬 Contact & Social Media</span>
+
+<ul style="font-size:1.1em;">
+<li>🌐 <strong>Website</strong>: <a href="https://philab.esa.int">philab.esa.int</a></li>
+<li>📧 <strong>Email</strong>: <a href="mailto:philab@esa.int">philab@esa.int</a></li>
+<li>🐦 <strong>Twitter</strong>: <a href="https://twitter.com/ESA_EO">@ESA_EO</a></li>
+<li>💼 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/groups/8984375/">ESA Φ-lab Group</a></li>
+</ul>
 
 ---
 
-<div align="center">
+## <span style="font-size:1.5em;">📚 Resources</span>
 
-**🌍 Transforming Earth Observation into Actions for Human Prosperity 🌟**
+<ul style="font-size:1.1em;">
+<li>📖 <strong>Publications</strong> - Latest research and findings</li>
+<li>🎯 <strong>Challenges</strong> - Current innovation challenges</li>
+<li>📋 <strong>Useful Documents</strong> - Guidelines and resources</li>
+<li>🎪 <strong>Events</strong> - Upcoming conferences and workshops</li>
+<li>💼 <strong>Business Opportunities</strong> - Doing business with Φ-lab</li>
+</ul>
 
-*Copyright 2024-2025 © European Space Agency. All Rights Reserved.*
+---
+
+<div align="center" style="font-size:1.3em;">
+
+<strong>🌍 Transforming Earth Observation into Actions for Human Prosperity 🌟</strong>
+
+<em>Copyright 2024-2025 © European Space Agency. All Rights Reserved.</em>
 
 </div>
