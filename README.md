@@ -2,9 +2,6 @@
     <img src="asset/banner.png" alt="ESA PhiLab Logo" width="100%">
 </p>
 
-<p align="center" style="font-size:2.5em;">
-🚀 We are ESA Φ-lab!  
-</p>
 
 <p align="center" style="font-size:1.5em;">
     <strong>🌍 TRANSFORMING EARTH OBSERVATION IN ACTIONS FOR THE HUMAN PROSPERITY 🌍</strong>
