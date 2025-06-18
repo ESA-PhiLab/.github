@@ -151,15 +151,6 @@ Our aim is to <strong>fill the gap between your innovative idea and the market</
 <li>📚 <strong>Research collaboration</strong> - Academic and scientific partnerships</li>
 </ul>
 
-### <span style="font-size:1.2em;">📬 Contact & Social Media</span>
-
-<ul style="font-size:1.1em;">
-<li>🌐 <strong>Website</strong>: <a href="https://philab.esa.int">philab.esa.int</a></li>
-<li>📧 <strong>Email</strong>: <a href="mailto:philab@esa.int">philab@esa.int</a></li>
-<li>🐦 <strong>Twitter</strong>: <a href="https://twitter.com/ESA_EO">@ESA_EO</a></li>
-<li>💼 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/groups/8984375/">ESA Φ-lab Group</a></li>
-</ul>
-
 ---
 
 ## <span style="font-size:1.5em;">📚 Resources</span>
